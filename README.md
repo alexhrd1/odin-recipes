@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project within the odin project. i'll be creating a recipes website using just HTML. ill be familiarising myself with the HTML syntax and using elements and attributes, as well as getting comfortable with file structures and how websites are laid out

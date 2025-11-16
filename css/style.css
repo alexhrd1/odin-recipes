@@ -1,0 +1,33 @@
+body {
+    background-color: lightgrey;
+    margin: 50px;
+    margin-right: auto;
+}
+
+.recipetitles {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.ingrlist,
+.instlist {
+    background-color: rgb(241, 238, 238);
+    padding: 10px 30px;
+    margin-right: auto;
+}
+
+.holtext {
+    background-color: yellow;
+}
+
+.agtext {
+    background-color: green;
+}
+
+.carbtext {
+    background-color: orange;
+}
+
+h1 {
+    text-decoration: underline;
+}
